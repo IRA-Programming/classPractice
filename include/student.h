@@ -1,3 +1,5 @@
+#include <string>
+
 class student {
 
     private:
@@ -6,6 +8,8 @@ class student {
     public:
         //Add parameters to the constructor as needed
         student();
+
         //Add other methods here
+
     
 };
